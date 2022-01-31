@@ -108,7 +108,7 @@
             "installNow": "Mevcut seçili \"{2}\" kartı için \"{0} {1}\" çekirdeğinin kurulması gerekiyor. Bunu şimdi kurmak istiyor musunuz?",
             "configDialogTitle": "Diğer Kart ve Port Seç",
             "configDialog1": "Bir eskiz yüklemek istiyorsanız Kart ve Port seçmelisiniz.",
-            "configDialog2": "Sadece Kart seçerseniz eskizinizi derleyebilir, ancak yükleyemezsiniz.",
+            "configDialog2": "If you only select a Board you will be able to compile, but not to upload your sketch.",
             "pleasePickBoard": "Lütfen seçtiğiniz porta bağlı kartı seçin.",
             "showAllAvailablePorts": "Etkinleştirildiğinde tüm mevcut portları görüntüler",
             "programmer": "Programlayıcı",
@@ -173,7 +173,7 @@
             "showFolder": "Eskiz Klasörünü Göster",
             "sketch": "Eskiz",
             "moving": "Taşınıyor",
-            "movingMsg": "\"{0}\" dosyasının \"{1}\" isminde bir eskiz klasörünün içinde olması gerekiyor.\nKlasörü oluştur, dosyayı taşı ve devam et?",
+            "movingMsg": "The file \"{0}\" needs to be inside a sketch folder named \"{1}\".\nCreate this folder, move the file, and continue?",
             "cantOpen": "\"{0}\" klasörü zaten mevcut. Eskiz açılamadı.",
             "saveFolderAs": "Eskiz klasörünü farklı kaydet...",
             "sketchbook": "Eskiz Defteri",
@@ -243,14 +243,14 @@
             "noSupportedBoardConnected": "Bağlı desteklenen kart yok"
         },
         "firmware": {
-            "updater": "WiFi101 /  WiFiNINA Firmware Güncelleyici",
+            "updater": "WiFi101 / WiFiNINA Firmware Updater",
             "selectBoard": "Kart Seç",
             "checkUpdates": "Güncellemeleri Kontrol Et",
             "selectVersion": "Firmware versiyonunu seç",
             "install": "Kur",
             "overwriteSketch": "Kurulum karttaki Eskiz'in üzerine yazacak.",
             "installingFirmware": "Firmware kuruluyor.",
-            "successfullyInstalled": "Firmware başarıyla kuruldu.",
+            "successfullyInstalled": "Firmware successfully installed.",
             "failedInstall": "Kurulum başarısız. Lütfen tekrar deneyin."
         },
         "dialog": {
@@ -269,7 +269,7 @@
             "carriageReturn": "Satır Başı",
             "newLineCarriageReturn": "NL ve CR ile Birlikte",
             "notConnected": "Bağlı değil. Otomatik olarak bağlanacak bir kart ve bir port seçin.",
-            "message": "Mesaj ({0} + Mesaj göndermek için Enter '{1}' / '{2}'",
+            "message": "Message ({0} + Enter to send message to '{1}' on '{2}')",
             "connectionBusy": "Bağlantı başarısız. Seri Port meşgul: {0}",
             "disconnected": "{1} bağlantısı koptu {0}.",
             "unexpectedError": "Beklenmeyen hata. Yeniden bağlanılıyor {0} / {1}.",

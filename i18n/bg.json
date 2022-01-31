@@ -108,7 +108,7 @@
             "installNow": "Ядрото „{0} {1}“ трябва да бъде инсталирано за текущо избраната платка „{2}“. Искате ли да го инсталирате сега?",
             "configDialogTitle": "Изберете друга платка и порт",
             "configDialog1": "Изберете както платка, така и порт, ако искате да качите скица.",
-            "configDialog2": "Ако изберете само платка, ще можете само да компилирате, но не и да качвате скицата си.",
+            "configDialog2": "If you only select a Board you will be able to compile, but not to upload your sketch.",
             "pleasePickBoard": "Моля, изберете платка, свързана към порта, който сте избрали.",
             "showAllAvailablePorts": "Показва всички налични портове, когато е активиран",
             "programmer": "Програматор",
@@ -173,7 +173,7 @@
             "showFolder": "Показване на папка за скици",
             "sketch": "Скица",
             "moving": "Преместване",
-            "movingMsg": "Файлът „{0}“ трябва да бъде в папка на скица, наречена „{1}“.\nСъздай тази папка, премести файла и продължи?",
+            "movingMsg": "The file \"{0}\" needs to be inside a sketch folder named \"{1}\".\nCreate this folder, move the file, and continue?",
             "cantOpen": "Папка с име „{0}“ вече съществува. Не може да се отвори скица.",
             "saveFolderAs": "Запазете папката със скица като...",
             "sketchbook": "Скицник",
@@ -243,14 +243,14 @@
             "noSupportedBoardConnected": "Няма свързана поддържана платка"
         },
         "firmware": {
-            "updater": "WiFi101 / WiFiNINA Обновяване на фърмуера",
+            "updater": "WiFi101 / WiFiNINA Firmware Updater",
             "selectBoard": "Изберете платка",
             "checkUpdates": "Проверете актуализации",
             "selectVersion": "Изберете версия на фърмуера",
             "install": "Инсталирай",
             "overwriteSketch": "Инсталацията ще презапише скицата на платката.",
             "installingFirmware": "Инсталиране на фърмуер.",
-            "successfullyInstalled": "Фърмуерът е инсталиран успешно.",
+            "successfullyInstalled": "Firmware successfully installed.",
             "failedInstall": "Неуспешно инсталиране. Моля, опитайте отново."
         },
         "dialog": {
@@ -269,7 +269,7 @@
             "carriageReturn": "Carriage Return",
             "newLineCarriageReturn": "Както NL, така и CR",
             "notConnected": "Няма връзка. Изберете платка и порт за автоматично свързване.",
-            "message": "Съобщение ({0} + Enter, за да изпратите съобщение до „{1}“ на „{2}“",
+            "message": "Message ({0} + Enter to send message to '{1}' on '{2}')",
             "connectionBusy": "Свързването е неуспешно. Серийният порт е зает: {0}",
             "disconnected": "Прекъснато е връзката на {0} с {1}.",
             "unexpectedError": "Неочаквана грешка. Повторно свързване на {0} на порт {1}.",

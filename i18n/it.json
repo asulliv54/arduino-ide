@@ -108,7 +108,7 @@
             "installNow": "The \"{0} {1}\" core has to be installed for the currently selected \"{2}\" board. Do you want to install it now?",
             "configDialogTitle": "Seleziona un'altra scheda o porta",
             "configDialog1": "Seleziona una scheda ed una porta se vuoi inviare lo sketch.",
-            "configDialog2": "If you only select a Board you will be able just to compile, but not to upload your sketch.",
+            "configDialog2": "If you only select a Board you will be able to compile, but not to upload your sketch.",
             "pleasePickBoard": "Please pick a board connected to the port you have selected.",
             "showAllAvailablePorts": "Shows all available ports when enabled",
             "programmer": "Programmatore",
@@ -173,7 +173,7 @@
             "showFolder": "Mostra la cartella dello Sketch",
             "sketch": "Sketch",
             "moving": "Spostando",
-            "movingMsg": "The file \"{0}\" needs to be inside a sketch folder named as \"{1}\".\nCreate this folder, move the file, and continue?",
+            "movingMsg": "The file \"{0}\" needs to be inside a sketch folder named \"{1}\".\nCreate this folder, move the file, and continue?",
             "cantOpen": "Una cartella di nome \"{0}\" esiste già. Impossibile aprire lo sketch.",
             "saveFolderAs": "Save sketch folder as...",
             "sketchbook": "Sketchbook",
@@ -243,14 +243,14 @@
             "noSupportedBoardConnected": "No supported board connected"
         },
         "firmware": {
-            "updater": "WiFi101 /  WiFiNINA Firmware Updater",
+            "updater": "WiFi101 / WiFiNINA Firmware Updater",
             "selectBoard": "Seleziona la scheda",
             "checkUpdates": "Verifica aggiornamenti",
             "selectVersion": "Selezione la versione del firmware",
             "install": "Installa",
             "overwriteSketch": "Installation will overwrite the Sketch on the board.",
             "installingFirmware": "Installazione del firmware",
-            "successfullyInstalled": "Firmware installato con successo",
+            "successfullyInstalled": "Firmware successfully installed.",
             "failedInstall": "Installazione fallita. Riprova"
         },
         "dialog": {
@@ -269,7 +269,7 @@
             "carriageReturn": "Ritorno carrello (CR)",
             "newLineCarriageReturn": "Entrambi NL & CR",
             "notConnected": "Not connected. Select a board and a port to connect automatically.",
-            "message": "Message ({0} + Enter to send message to '{1}' on '{2}'",
+            "message": "Message ({0} + Enter to send message to '{1}' on '{2}')",
             "connectionBusy": "Connection failed. Serial port is busy: {0}",
             "disconnected": "Disconnected {0} from {1}.",
             "unexpectedError": "Unexpected error. Reconnecting {0} on port {1}.",
